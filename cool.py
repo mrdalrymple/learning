@@ -1,5 +1,5 @@
 def coolness():
-    print("I am so cool")
+    x = 5
     print("Steven test")
 
 
