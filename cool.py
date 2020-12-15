@@ -1,5 +1,5 @@
 def coolness():
-    print("I am so cool")
+    print("You are not cool.")
 
 
 coolness()
